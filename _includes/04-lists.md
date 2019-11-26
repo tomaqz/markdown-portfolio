@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+* These are some
+* of my favorite 
+  * things
+  * A spoonful of sugar
