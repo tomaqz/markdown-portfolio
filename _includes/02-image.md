@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of Sunlight](https://png.pngtree.com/png-clipart/20190515/original/pngtree-creative-sun-light-effect-with-sun-rays-and-bokeh-composition-vector-png-image_4199633.jpg)
